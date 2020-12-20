@@ -1,0 +1,10 @@
+﻿
+
+Dependecy Inversion Principle(DIP)
+
+Bu ilkede yüksek seviyeli modüller - sınıflar, düşük seviyeli modüllere - sınflara bağlı olamamalıdır. Modül ve sınıflar 
+soyutlamalara bağlı olmalıdır. Soyutlama detaylara bağlı olmamalıdır. Detaylar soyutlamalara bağlı olmalıdır. Burada detaydan
+ kastımız sınıfın barındırdığı yöntemlerin nasıl çalıştığıdır yani yöntemlere yüklediğimiz görevlerdir. Bu ilkenin en can alıcı noktası,
+ bir sınıfın eylem yütürmek için kullandığı araçla birleştirilmememsi gerektiğini söyler.Ayrıca arayüzün ilgili araçların nasıl çalıştığını
+ bilmemesi gerektiğini söyler. Ancak aracın arayüzün teknik özelliklerini karşıalması gerekir. Yani methodları aldığı parametreleri 
+karşılaması gerektedir.

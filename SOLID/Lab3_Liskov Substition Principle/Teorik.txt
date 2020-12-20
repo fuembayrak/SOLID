@@ -1,0 +1,10 @@
+﻿
+
+Liskov Substition Principle (LSP)
+
+“Alt seviye sınıflardan oluşan nesnelerin/sınıfların, ana(üst) sınıfın nesneleri ile yer değiştirdikleri zaman, aynı davranışı sergilemesi gerekmektedir. Türetilen sınıflar, türeyen sınıfların tüm özelliklerini kullanabilmelidir.”
+
+Bu ilkeye göre "türetilmiş veya alt sınıflar, temel veya ebeveyn sınıflarının yerine geçebilir." Bu ilke ana sınıfın alt sınıfı olan
+ herhangi bir sınıfın, beklenmedik davranılşar olmaksızın ata sınıflarının yerine kullanılmasını sağlar.
+ 
+	Bir çiftçinin oğlunun çiftçilik  becerilerinin babasından miras alması ve gerekirse babasının yerine geçmesi gerektiğinin anlayabilirsiniz. Oğul çiftçi olamak istemiyorsa boksör olmak istiyorsa, oğul aynı ailenin hiyerarşisine dahil olamalalarına rağmen kesinlikle babasının yerini alamaz.

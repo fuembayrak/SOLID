@@ -1,0 +1,8 @@
+﻿Single Responsibility Principle (SRP)
+
+“Her sınıfın veya metodun tek bir sorumluluğu olmalı.”
+"Tek bir şeyi yap ve onu en iyi yap."
+
+Bu ilke, "bir sınıfın değişmesi için yanlızca bir nedeni olamsı gerektiğini" savunur.
+
+Prensibimizin ana hedefi her sınıfın ve metodun tek bir sorumluluğu olması ve o sorumluluğu yerine getirmesi gerektiğini ve bir sınıf veya metod değişmesi için bir tek sebebi olması gerektiğini söyler.

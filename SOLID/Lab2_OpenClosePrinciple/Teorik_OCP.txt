@@ -1,0 +1,10 @@
+﻿
+
+Open & Close Principle
+
+“Sınıflar değişikliğe kapalı ancak gelişime açık olmalıdır.”
+
+Bu oluşturmak istediğimiz sınıfı rahat bir şekilde oluşturmak istedir. Zaten OOP genişlemeyi prensip edinerek desteklemiştir.
+
+Lakin bu genişleme esnasında yaratılan sınıflarda modifikasyona gerek kalmayacak şekilde mimariyi kurmamız gerekmektedir. 
+Yani basit bir şekilde söylemek gerekirse bir sınıfın davranışını değiştirmeden genişletebilmemiz gerektiğini anlamalıyız.

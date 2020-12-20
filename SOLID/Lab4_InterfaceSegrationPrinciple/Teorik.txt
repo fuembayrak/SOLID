@@ -1,0 +1,9 @@
+﻿
+
+Interface Segration Principle (ISP)
+
+Bu prensiple, SOLID'deki sınıflar yerine arayüzler için geçerli olan ilk prensiptir ve SRP & LSP prensiplerine benzemektedir.
+ Bu ilke bize "hiçbir concrete sınıf kendisiyle ilgisi olmayan bir arayüzden implement edilmemelidir" demektedir. Burada asıl 
+amacımız, yetenek veyetkiler tarafından şişirilmiş bir arayüzden kaçınmaya odaklanmaktak ve alt sınıflara özel birçok küçük 
+arayüzü tercih etmektir. Tek bir genel arayüz yerine birçok istemci arayüzü tercih edebilirsiniz ve her arayüzün belirli bir
+ sorumluluğu olmalıdır.
